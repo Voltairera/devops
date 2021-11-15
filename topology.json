@@ -1,0 +1,169 @@
+{
+  "resultcode": "201",
+  "networkMagic": "764824073",
+  "ipType": 4,
+  "requestedIpVersion": "4",
+  "max": "15",
+  "Producers": [
+    {
+      "addr": "107.21.230.32",
+      "port": 3002,
+      "valency": 1,
+      "distance": 70,
+      "continent": "NA",
+      "country": "US",
+      "region": "VA"
+    },
+    {
+      "addr": "cardano-relay2.phillystake.com",
+      "port": 3001,
+      "valency": 1,
+      "distance": 423,
+      "continent": "NA",
+      "country": "US",
+      "region": "NY"
+    },
+    {
+      "addr": "64.140.118.166",
+      "port": 5554,
+      "valency": 1,
+      "distance": 565,
+      "continent": "NA",
+      "country": "CA",
+      "region": "ON"
+    },
+    {
+      "addr": "relay5.growpools.io",
+      "port": 4181,
+      "valency": 1,
+      "distance": 1042,
+      "continent": "NA",
+      "country": "US",
+      "region": "MO"
+    },
+    {
+      "addr": "35.226.122.48",
+      "port": 6000,
+      "valency": 1,
+      "distance": 1530,
+      "continent": "NA",
+      "country": "US",
+      "region": "IA"
+    },
+    {
+      "addr": "209.145.50.74",
+      "port": 3000,
+      "valency": 1,
+      "distance": 3531,
+      "continent": "NA",
+      "country": "US",
+      "region": "CA"
+    },
+    {
+      "addr": "46.137.119.40",
+      "port": 6000,
+      "valency": 1,
+      "distance": 5520,
+      "continent": "EU",
+      "country": "IE",
+      "region": "L"
+    },
+    {
+      "addr": "r-eu-1.polypool.io",
+      "port": 4001,
+      "valency": 1,
+      "distance": 6242,
+      "continent": "EU",
+      "country": "GB",
+      "region": "IDF"
+    },
+    {
+      "addr": "194.163.159.163",
+      "port": 6000,
+      "valency": 1,
+      "distance": 6529,
+      "continent": "EU",
+      "country": "DE",
+      "region": "HH"
+    },
+    {
+      "addr": "178.18.251.83",
+      "port": 3001,
+      "valency": 1,
+      "distance": 6638,
+      "continent": "EU",
+      "country": "DE",
+      "region": "BW"
+    },
+    {
+      "addr": "135.181.89.185",
+      "port": 3002,
+      "valency": 1,
+      "distance": 6788,
+      "continent": "EU",
+      "country": "DE",
+      "region": "BY"
+    },
+    {
+      "addr": "144.91.86.30",
+      "port": 6000,
+      "valency": 1,
+      "distance": 6895,
+      "continent": "EU",
+      "country": "DE",
+      "region": "BY"
+    },
+    {
+      "addr": "relay02.astorpool.net",
+      "port": 3001,
+      "valency": 1,
+      "distance": 7051,
+      "continent": "EU",
+      "country": "CZ",
+      "region": "52"
+    },
+    {
+      "addr": "relay1.arigatopool.com",
+      "port": 6000,
+      "valency": 1,
+      "distance": 10863,
+      "continent": "AS",
+      "country": "JP",
+      "region": "14"
+    },
+    {
+      "addr": "cnwr-1.services.kindstudios.gr",
+      "port": 25437,
+      "valency": 1,
+      "distance": 15532,
+      "continent": "AS",
+      "country": "SG",
+      "region": "01"
+    },
+    {
+      "addr": "52.188.214.89",
+      "port": 6000,
+      "valency": 1
+    },
+    {
+      "addr": "52.188.149.100",
+      "port": 6000,
+      "valency": 1
+    },
+    {
+      "addr": "104.41.136.87",
+      "port": 6000,
+      "valency": 1
+    },
+    {
+      "addr": "13.90.229.104",
+      "port": 6000,
+      "valency": 1
+    },
+    {
+      "addr": "40.117.177.230",
+      "port": 6000,
+      "valency": 1
+    }
+  ]
+}
